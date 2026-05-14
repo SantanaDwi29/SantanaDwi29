@@ -87,9 +87,7 @@ Hi, I’m Santana — a passionate student currently pursuing a degree in Inform
 
 ![snake gif](https://github.com/santanadwi29/santanadwi29/blob/output/github-snake-dark.svg)
 
-<div align="center">
-  <img height="200" src="https://ani-github.github.io/animegifs/death-note/lookingaround.gif"  />
-</div>
+
 
 ###
 
