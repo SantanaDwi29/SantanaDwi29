@@ -89,10 +89,7 @@ I'm a **Full-Stack Developer** student at **Bali State Polytechnic**, passionate
 <!-- =========================== -->
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SantanaDwi29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaDwi29&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500"/>
-</p>
+
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SantanaDwi29&theme=tokyonight&hide_border=true"/>
@@ -102,13 +99,6 @@ I'm a **Full-Stack Developer** student at **Bali State Polytechnic**, passionate
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SantanaDwi29&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-<details>
-<summary align="center">🏆 <b>GitHub Trophies (click to expand)</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SantanaDwi29&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-</details>
 
 <br>
 
